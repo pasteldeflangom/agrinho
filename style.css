@@ -6,7 +6,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #83f56c;
+    background-color: #ffffff;
     color: #333;
     line-height: 1.6;
 }
@@ -55,7 +55,7 @@ header nav ul li a.active {
 
 .hero {
     background: #87cefa;
-    color: #fff;
+    color: #000000;
     padding: 60px 0;
     text-align: center;
 }
