@@ -6,7 +6,7 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f8ff;
+    background-color: #a5c7e4;
     color: #333;
     line-height: 1.6;
 }
@@ -129,8 +129,4 @@ footer {
 
 footer p {
     margin: 0;
-}
-
-.foto{ 
-margin: 1%;
 }
