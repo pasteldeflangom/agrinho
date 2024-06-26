@@ -132,6 +132,6 @@ footer p {
 }
 
 .foto {
-    align-items: middle;
-    margin-top: 1%;
+    display: flex;
+    justify-content: center;
 }
