@@ -69,6 +69,7 @@ header nav ul li a.active {
 .content {
     padding: 40px 0;
     text-align: justify;
+    align-items: center;
 }
 
 .content h1 {
